@@ -1,3 +1,5 @@
+#addition
+#program by KUSANATH R
 echo enter a number1
 read number1
 echo enter a number2
